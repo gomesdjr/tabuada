@@ -1,2 +1,2 @@
 # Tabuada
-Tabuada feita durante o curso de HTML da HCode, foram utilizadas as tecnologias, HTML, CSS e JavaScript.
+Projeto do curso de HTML5 da HCODE onde aprendemos e implementamos uma tabuada que funciona através de um input númerico do usuário. Utilizando HTML5, CSS e JavaScript Puro.
